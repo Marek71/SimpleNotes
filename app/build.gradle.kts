@@ -71,4 +71,6 @@ dependencies {
 // Moshi
     implementation(libs.moshi)
     ksp(libs.moshi.ksp)
+
+    implementation("androidx.compose.material:material-icons-extended:1.7.2")
 }
